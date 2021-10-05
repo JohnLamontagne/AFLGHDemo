@@ -4,7 +4,11 @@
 
 As you can see, MD files can link to other MD files, allowing for additional organization of information as necessary. 
 
-We can also provide a link back to the original file or even a specific MD file which serves as an index for all of our documents.
+You can link directly to any page or file, both within or outside of the repository, via the hyperlink markdown:
+```
+[Like this](www.yourlink.com)
+```
 
 
+For example, we can provide a link back to our root MD file via an imbedded hyperlink:
 [Return to repository root](https://github.com/JohnLamontagne/AFLGHDemo)
