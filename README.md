@@ -13,5 +13,5 @@ You can read more about Markdown in Github [here](https://docs.github.com/en/git
 
 
 ## Index
-[Linked Files](https://github.com/JohnLamontagne/AFLGHDemo/blob/main/Documentation/LinkedFiles.md)
-
+- [Linked Files](https://github.com/JohnLamontagne/AFLGHDemo/blob/main/Documentation/LinkedFiles.md)
+- Etc.
