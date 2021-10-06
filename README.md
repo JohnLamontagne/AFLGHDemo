@@ -15,3 +15,20 @@ You can read more about Markdown in Github [here](https://docs.github.com/en/git
 ## Index
 - [Linked Files](https://github.com/JohnLamontagne/AFLGHDemo/blob/main/Documentation/LinkedFiles.md)
 - Etc.
+
+
+
+
+# Resources
+
+## Tools Index
+
+- BS4
+- Python
+- Etc
+
+## Guides Index
+
+- Some guide
+- Some other guide
+- bla bla bal
