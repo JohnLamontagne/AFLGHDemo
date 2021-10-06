@@ -29,6 +29,8 @@ You can read more about Markdown in Github [here](https://docs.github.com/en/git
 
 ## Guides Index
 
+### Learning Web Scraping
+
 - Some guide
 - Some other guide
 - bla bla bal
